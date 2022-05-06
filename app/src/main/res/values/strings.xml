@@ -2,4 +2,5 @@
     <string name="app_name">Bankline</string>
     <string name="txt_welcome">Hello, welcome to Santander Dev Week! Enter and account Holder Id to view your bank statement:</string>
     <string name="txt_continue">Continue</string>
+    <string name="txt_account_holder_id">Account Holder ID</string>
 </resources>

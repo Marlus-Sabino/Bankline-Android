@@ -3,4 +3,5 @@
     <string name="app_name">Bankline</string>
     <string name="txt_welcome">Olá, bem-vindo (a) ao Santander Dev Week! Insira e o ID do titular da conta para visualizar seu extrato bancário:</string>
     <string name="txt_continue">Continar</string>
+    <string name="txt_account_holder_id">ID do Correntista</string>
 </resources>
