@@ -36,6 +36,8 @@ class BankStatementActivity : AppCompatActivity() {
         binding.rvBankStatement.layoutManager = LinearLayoutManager(this)
 
         findBankStatement()
+
+        binding.srlBankStatement.setOnRefreshListener { findBankStatement() }
     }
 
     private fun findBankStatement() {
